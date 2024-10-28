@@ -553,7 +553,7 @@ footer p {
         margin-bottom: 8%;
     }
     .menu-info-container {
-        display: flex;
+        display: none;
     }
     .menu-info {
         width: 100%;
