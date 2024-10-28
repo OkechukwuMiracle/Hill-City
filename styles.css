@@ -552,9 +552,9 @@ footer p {
     .twitter-link_container {
         margin-bottom: 8%;
     }
-    .menu-info-container {
+    /* .menu-info-container {
         display: none;
-    }
+    } */
     .menu-info {
         width: 100%;
         position: absolute;
